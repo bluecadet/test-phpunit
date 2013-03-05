@@ -22,7 +22,7 @@ class URLTest extends \PHPUnit_Framework_TestCase
     }
     
     /**
-     * Dataprovider for $this::testSluggifyReturnsSluggifiedString()
+     * Dataprovider for self::testSluggifyReturnsSluggifiedString()
      */
      public function providerTestSluggifyReturnsSluggifiedString()
      {
